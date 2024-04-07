@@ -2,7 +2,7 @@
 # Step1
 apt-get install wget sudo
 # Step2
-wget -O - https://raw.githubusercontent.com/AlperenAKKAYA05/OpenMediaVault-Auto-Setup-Functions/master/install | sudo bash
+wget -O - https://raw.githubusercontent.com/AlperenAKKAYA05/OpenMediaVault-Auto-Setup-Functions/master/install?token=GHSAT0AAAAAACQVBYQYVNAU4FXCGHOMK7QKZQSS6EQ | sudo bash
 
 Remove->
 --------
