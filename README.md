@@ -22,7 +22,7 @@ wget Install Function
 OMVSetup Install Function
 
 # Step-1
-git clone https://github.com/Crpsem/OpenMediaVault-Auto-Setup-Functions.git
+git clone https://github.com/AlperenAKKAYA05/OpenMediaVault-Auto-Setup-Functions.git
 # Step-2
 chmod -x OMV.sh
 # Step-3
